@@ -10,3 +10,7 @@ this repository contains my assignments
 [assignment Week 6](https://github.com/RebekaKulcsar/assignments/blob/master/Week%206%20-%20assignment4-checkpoint.ipynb)
 
 [assignment Week 8](https://github.com/RebekaKulcsar/assignments/blob/master/Week%208%20-%20assignment5.ipynb)
+
+[final python assignment](https://github.com/RebekaKulcsar/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[final R assignment](https://github.com/RebekaKulcsar/assignments/blob/master/OECD_R_exam.ipynb)
